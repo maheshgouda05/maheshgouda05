@@ -1,5 +1,5 @@
 # 💫 About Me:
-i am a software developer 
+I am a software developer 
 
 
 
