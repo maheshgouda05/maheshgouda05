@@ -6,8 +6,8 @@
 
 <p align="center">
   <a href="https://github.com/maheshgouda05"><img src="https://img.shields.io/badge/GitHub-@maheshgouda05-181717?style=for-the-badge&logo=github" alt="GitHub" /></a>
-  <a href="https://linkedin.com/in/yourprofile"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
-  <a href="mailto:your.email@example.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
+  <a href="[https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mahesh-gouda-3745a0323/?isSelfProfile=true)"><img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn" /></a>
+  <a href="maheshbasarakod05@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" alt="Email" /></a>
 </p>
 
 ---
