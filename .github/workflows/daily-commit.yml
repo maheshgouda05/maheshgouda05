@@ -1,0 +1,34 @@
+name: Daily Commit
+
+on:
+  schedule:
+    - cron: '30 3 * * *'   # Day commit: 3:30 UTC = 9:00 AM IST
+    - cron: '30 15 * * *'  # Night commit: 15:30 UTC = 9:00 PM IST
+  workflow_dispatch:        # lets you run it manually to test
+
+permissions:
+  contents: write
+
+jobs:
+  commit:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Update log
+        run: |
+          HOUR=$(TZ=Asia/Kolkata date +%H)
+          if [ "$HOUR" -lt 18 ] && [ "$HOUR" -ge 6 ]; then
+            PERIOD="Day"
+          else
+            PERIOD="Night"
+          fi
+          echo "$PERIOD update: $(TZ=Asia/Kolkata date '+%Y-%m-%d %H:%M IST')" >> log.txt
+
+      - name: Commit and push
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add log.txt
+          git commit -m "Auto commit: $(TZ=Asia/Kolkata date '+%Y-%m-%d %H:%M IST')"
+          git push
