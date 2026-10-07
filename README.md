@@ -114,8 +114,8 @@ I’m particularly interested in:
 I’m always open to collaboration, learning, and building something meaningful.
 
 - GitHub: https://github.com/maheshgouda05
-- LinkedIn: https://linkedin.com/in/yourprofile
-- Email: your.email@example.com
+- LinkedIn: [https://linkedin.com/in/yourprofile](https://www.linkedin.com/in/mahesh-gouda-3745a0323/?isSelfProfile=true)
+- Email: maheshbasarakod05@gmail.com
 
 ---
 
