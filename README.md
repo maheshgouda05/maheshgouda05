@@ -1,43 +1,23 @@
-<!-- ===== HEADER BANNER ===== -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=220&section=header&text=Hi,%20I'm%20Mahesh&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Tech%20%7C%20Data%20Analytics%20%7C%20Sports&descAlignY=60&descSize=20" width="100%"/>
-</p>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=MAHESH&fontSize=50&fontColor=fff&animation=twinkling&fontAlignY=40&desc=Web%20Developer%20%7C%20Backend%20%7C%20Data%20Analytics%20%7C%20Sports%20Person&descAlignY=60&descAlign=50"/>
+</div>
 
-<!-- ===== TYPING ANIMATION ===== -->
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+%26+Backend+Developer+%F0%9F%92%BB;Data+Analytics+Learner+%F0%9F%93%8A;Sports+Person+%F0%9F%8F%85;Learning+by+building+real+projects+%F0%9F%9A%80" alt="Typing animation"/>
-</p>
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=BB9AF7&center=true&vCenter=true&width=600&lines=def+build_cool_projects():;++++while+curiosity.exists():;++++++++write_code();++++++++play_sports();++++return+%22Never+Stop+Growing%22" alt="Code Typing"/>
+</div>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=maheshgouda05&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="profile views"/>
+  <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </p>
 
----
+<div align="center">
 
-## 🙋‍♂️ About Me
+  [![GitHub](https://img.shields.io/badge/🐙_GitHub-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/maheshgouda05)
+  [![LinkedIn](https://img.shields.io/badge/💼_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/mahesh-gouda-3745a0323/)
+  [![Email](https://img.shields.io/badge/📧_Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:maheshbasarakod05@gmail.com)
 
-<table>
-<tr>
-<td>
+</div>
 
-🔭 Currently working on **web development** and **backend** using **Python** and **Java**
-
-📊 Interested in **technology** and **data analytics**
-
-🏃 A **sports person** at heart, a little bit introverted
-
-🌱 I learn best by **building real projects**
-
-⚡ Fun fact: I keep this repo alive with a GitHub Actions auto-commit bot
-
-</td>
-</tr>
-</table>
-
----
-
-## 🛠️ Tech Stack
-
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,flutter,androidstudio,xcode,vscode,git,github&perline=8" alt="tech stack"/>
-</p>
+<div align="center">
+  <img src="https://user-images.githubusercontent.com/74038190/212284158-e840e285-664b-44d7-b79b-e264b5e54825.gif" width="400">
+</div>
