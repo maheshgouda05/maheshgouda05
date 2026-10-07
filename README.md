@@ -98,15 +98,14 @@ I’m particularly interested in:
 
 ### 🧩 Featured Projects
 <p align="left">
-  <a href="https://github.com/maheshgouda05/project-one">
+  <a href="https://github.com/maheshgouda05/friday">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshgouda05&repo=project-one&theme=radical" />
   </a>
-  <a href="https://github.com/maheshgouda05/project-two">
+  <a href="https://github.com/maheshgouda05/sih">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=maheshgouda05&repo=project-two&theme=radical" />
   </a>
 </p>
 
-> Replace `project-one` and `project-two` with your actual repo names.
 
 ---
 
